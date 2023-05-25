@@ -100,5 +100,40 @@
             {"name": "Dinner Room"},
             {"name": "Veichle Room"}
         ]
+    },
+
+    {
+        "id": "jaflong",
+        "name": "Basic",
+        "price": "2.00",
+        "d_price": "3.00",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "jaflong",
+        "name": "Premium",
+        "price": "4.45",
+        "d_price": "6.48",
+        "facilities": [
+            {"name": "One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "jaflong",
+        "name": "Enterprise",
+        "price": "6.08",
+        "d_price": "8.48",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"},
+            {"name": "Veichle Room"}
+        ]
     }
 ]
