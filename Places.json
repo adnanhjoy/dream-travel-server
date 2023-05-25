@@ -1,0 +1,30 @@
+[
+    {
+        "id": "coxbazar",
+        "name": "Coxs Bazar",
+        "time": "6 days / 7 night",
+        "price": "503",
+        "img": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/9e9e65d6a47bba62993adc9e4cf02f30ab76eec3/medium-c604b7e5b164024ff338929907701f4a.jpg"
+    },
+    {
+        "id": "saintmartin",
+        "name": "Saint Martin",
+        "time": "5 days / 6 night",
+        "price": "550",
+        "img": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/014/456/slideshow/4c5b71b9fc5d53e64e19dd1bf2b8210c/london-tour-tower-bridge-dusk-2015.jpg"
+    },
+    {
+        "id": "sajekvalley",
+        "name": "Sajek Valley",
+        "time": "4 days / 5 night",
+        "price": "400",
+        "img": "https://cdn.tourradar.com/s3/content-pages/2301/1200x630/goZ1Kc.png"
+    },
+    {
+        "id": "jaflong",
+        "name": "Jaflong",
+        "time": "6 days / 7 night",
+        "price": "600",
+        "img": "https://www.wendywutours.com.au/resource/upload/234/japan-tour-banner.jpg.webp"
+    }
+]

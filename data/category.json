@@ -1,0 +1,104 @@
+[
+    {
+        "id": "coxbazar",
+        "name": "Basic",
+        "price": "2.98",
+        "d_price": "5.48",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "coxbazar",
+        "name": "Premium",
+        "price": "4.98",
+        "d_price": "6.48",
+        "facilities": [
+            {"name": "One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "coxbazar",
+        "name": "Enterprise",
+        "price": "5.98",
+        "d_price": "7.48",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"},
+            {"name": "Veichle Room"}
+        ]
+    },
+    {
+        "id": "saintmartin",
+        "name": "Basic",
+        "price": "2.58",
+        "d_price": "4.48",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "saintmartin",
+        "name": "Premium",
+        "price": "4.00",
+        "d_price": "6.00",
+        "facilities": [
+            {"name": "One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "saintmartin",
+        "name": "Enterprise",
+        "price": "7.50",
+        "d_price": "10.48",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"},
+            {"name": "Veichle Room"}
+        ]
+    },
+    {
+        "id": "sajekvalley",
+        "name": "Basic",
+        "price": "2.00",
+        "d_price": "4.00",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "sajekvalley",
+        "name": "Premium",
+        "price": "3.45",
+        "d_price": "5.48",
+        "facilities": [
+            {"name": "One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"}
+        ]
+    },
+    {
+        "id": "sajekvalley",
+        "name": "Enterprise",
+        "price": "5.08",
+        "d_price": "7.48",
+        "facilities": [
+            {"name": "Non One Ac Room"},
+            {"name": "Launch Room"},
+            {"name": "Dinner Room"},
+            {"name": "Veichle Room"}
+        ]
+    }
+]
