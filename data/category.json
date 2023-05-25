@@ -5,7 +5,7 @@
         "price": "2.98",
         "d_price": "5.48",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Non Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"}
         ]
@@ -27,7 +27,7 @@
         "price": "5.98",
         "d_price": "7.48",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"},
             {"name": "Veichle Room"}
@@ -39,7 +39,7 @@
         "price": "2.58",
         "d_price": "4.48",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Non Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"}
         ]
@@ -61,7 +61,7 @@
         "price": "7.50",
         "d_price": "10.48",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"},
             {"name": "Veichle Room"}
@@ -73,7 +73,7 @@
         "price": "2.00",
         "d_price": "4.00",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Non Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"}
         ]
@@ -95,7 +95,7 @@
         "price": "5.08",
         "d_price": "7.48",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"},
             {"name": "Veichle Room"}
@@ -108,7 +108,7 @@
         "price": "2.00",
         "d_price": "3.00",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Non Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"}
         ]
@@ -130,7 +130,7 @@
         "price": "6.08",
         "d_price": "8.48",
         "facilities": [
-            {"name": "Non One Ac Room"},
+            {"name": "One Ac Room"},
             {"name": "Launch Room"},
             {"name": "Dinner Room"},
             {"name": "Veichle Room"}
